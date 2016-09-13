@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Lee Yi Min
+=======
+MAKE CONFLICT
+>>>>>>> conflict
 <<<<<<< HEAD
 Hi there, im trying to create a conflict (: - Filbert
 =======
