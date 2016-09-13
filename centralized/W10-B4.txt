@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi there, im trying to create a conflict (: - Filbert
+=======
+Karen Ang
+>>>>>>> e59a8f8e36df5a216e90632aa2aef581cb6eec4b
