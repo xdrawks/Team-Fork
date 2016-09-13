@@ -1,0 +1,2 @@
+Enjoying run-time errors with JavaFX8 tutorial
+Ignorance is bliss
